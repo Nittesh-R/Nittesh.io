@@ -1,5 +1,5 @@
 ---
-title: "Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking"
+title: "A fashion project ,where all people can dive into Styles[IN Progress ]"
 date: 2022-04-04T23:15:00+07:00
 slug: acetylcholinesterase
 category: projects
