@@ -2,36 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/blogs/a-story-on-a-achiver/</loc>
+    <loc>//github.com/Nittesh-R/blogs/a-story-on-a-achiver/</loc>
     <lastmod>2024-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/</loc>
+    <loc>//github.com/Nittesh-R/blogs/</loc>
     <lastmod>2024-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>//github.com/Nittesh-R/</loc>
     <lastmod>2024-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>//github.com/Nittesh-R/about/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
-    <lastmod>2022-04-06T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/projects/reproducible-computational-drug-discovery/</loc>
-    <lastmod>2022-04-06T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/projects/acetylcholinesterase/</loc>
+    <loc>//github.com/Nittesh-R/projects/acetylcholinesterase/</loc>
     <lastmod>2022-04-04T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/first/</loc>
+    <loc>//github.com/Nittesh-R/projects/</loc>
+    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>//github.com/Nittesh-R/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/page/</loc>
+    <loc>//github.com/Nittesh-R/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//github.com/Nittesh-R/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>//github.com/Nittesh-R/categories/</loc>
   </url>
 </urlset>

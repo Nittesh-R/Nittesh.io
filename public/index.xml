@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nittesh R</title>
-    <link>//localhost:1313/</link>
+    <link>//github.com/Nittesh-R/</link>
     <description>Recent content on Nittesh R</description>
     <image>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//github.com/Nittesh-R/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//github.com/Nittesh-R/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 23:15:00 +0700</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Apr 2024 23:15:00 +0700</lastBuildDate><atom:link href="//github.com/Nittesh-R/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Against All Odds : Tails Of Triumph</title>
-      <link>//localhost:1313/blogs/a-story-on-a-achiver/</link>
+      <link>//github.com/Nittesh-R/blogs/a-story-on-a-achiver/</link>
       <pubDate>Mon, 08 Apr 2024 23:15:00 +0700</pubDate>
       
-      <guid>//localhost:1313/blogs/a-story-on-a-achiver/</guid>
+      <guid>//github.com/Nittesh-R/blogs/a-story-on-a-achiver/</guid>
       <description>Preview In a world that often measures worth by perceived perfection, there exists a soul whose journey defies every expectation. Born with disorders that set them apart from their peers, they faced a childhood marked by misunderstanding and adversity. Yet, through every trial inflicted by others&amp;rsquo; ignorance and cruelty, they forged an inner strength fueled by resilience and a relentless spirit. Their story is not merely one of survival but of defiance—a testament to the human spirit&amp;rsquo;s capacity to rise above circumstances.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>//github.com/Nittesh-R/about/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>//localhost:1313/about/</guid>
+      <guid>//github.com/Nittesh-R/about/</guid>
       <description>In my daytime, I work as a Developer Advocate at a US Tech company.
 At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:
 📺 YouTube: Data Professor, Coding Professor 📝 Medium Blogs. 💻 GitHub In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
@@ -33,29 +33,20 @@ Google Scholar ORCID SCOPUS ResearchGate GitHub: chaninn, chaninlab You can also
     </item>
     
     <item>
-      <title>Towards reproducible computational drug discovery</title>
-      <link>//localhost:1313/projects/reproducible-computational-drug-discovery/</link>
-      <pubDate>Wed, 06 Apr 2022 23:15:00 +0700</pubDate>
-      
-      <guid>//localhost:1313/projects/reproducible-computational-drug-discovery/</guid>
-      <description>Abstract The reproducibility of experiments has been a long standing impediment for further scientific progress. Computational methods have been instrumental in drug discovery efforts owing to its multifaceted utilization for data collection, pre-processing, analysis and inference. This article provides an in-depth coverage on the reproducibility of computational drug discovery. This review explores the following topics: (1) the current state-of-the-art on reproducible research, (2) research documentation (e.g. electronic laboratory notebook, Jupyter notebook, etc.</description>
-    </item>
-    
-    <item>
       <title>A fashion project ,where all people can dive into Styles[IN Progress ]</title>
-      <link>//localhost:1313/projects/acetylcholinesterase/</link>
+      <link>//github.com/Nittesh-R/projects/acetylcholinesterase/</link>
       <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>//localhost:1313/projects/acetylcholinesterase/</guid>
+      <guid>//github.com/Nittesh-R/projects/acetylcholinesterase/</guid>
       <description>Abstract Alzheimer’s disease (AD) is a chronic neurodegenerative disease which leads to the gradual loss of neuronal cells. Several hypotheses for AD exists (e.g., cholinergic, amyloid, tau hypotheses, etc.). As per the cholinergic hypothesis, the deficiency of choline is responsible for AD; therefore, the inhibition of AChE is a lucrative therapeutic strategy for the treatment of AD. Acetylcholinesterase (AChE) is an enzyme that catalyzes the breakdown of the neurotransmitter acetylcholine that is essential for cognition and memory.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>//localhost:1313/page/</link>
+      <link>//github.com/Nittesh-R/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>//localhost:1313/page/</guid>
+      <guid>//github.com/Nittesh-R/page/</guid>
       <description>Desc Text.</description>
     </item>
     

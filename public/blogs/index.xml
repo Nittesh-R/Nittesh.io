@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Nittesh R</title>
-    <link>//localhost:1313/blogs/</link>
+    <link>//github.com/Nittesh-R/blogs/</link>
     <description>Recent content in Blogs on Nittesh R</description>
     <image>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//github.com/Nittesh-R/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//github.com/Nittesh-R/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 23:15:00 +0700</lastBuildDate><atom:link href="//localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Apr 2024 23:15:00 +0700</lastBuildDate><atom:link href="//github.com/Nittesh-R/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Against All Odds : Tails Of Triumph</title>
-      <link>//localhost:1313/blogs/a-story-on-a-achiver/</link>
+      <link>//github.com/Nittesh-R/blogs/a-story-on-a-achiver/</link>
       <pubDate>Mon, 08 Apr 2024 23:15:00 +0700</pubDate>
       
-      <guid>//localhost:1313/blogs/a-story-on-a-achiver/</guid>
+      <guid>//github.com/Nittesh-R/blogs/a-story-on-a-achiver/</guid>
       <description>Preview In a world that often measures worth by perceived perfection, there exists a soul whose journey defies every expectation. Born with disorders that set them apart from their peers, they faced a childhood marked by misunderstanding and adversity. Yet, through every trial inflicted by others&amp;rsquo; ignorance and cruelty, they forged an inner strength fueled by resilience and a relentless spirit. Their story is not merely one of survival but of defiance—a testament to the human spirit&amp;rsquo;s capacity to rise above circumstances.</description>
     </item>
     

@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "//chanin.tech/"
+baseURL: "//github.com/Nittesh-R/"
 title: Nittesh R
 paginate: 5
 theme: PaperMod
@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "This is the website of Nittesh, Tech enthusiast. and I'm a passionate learner,delving into coding, and a novel writer with a creative and aesthetic mind."
+    subtitle: "I am Nittesh, Tech enthusiast. and I'm a passionate learner,delving into coding, and a novel writer with a creative and aesthetic mind."
     imageUrl: "images/dp.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -63,7 +63,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome! \U0001F44B"
-    Content: "This is the website of Nittesh, Tech enthusiast. and I'm a passionate learner,delving into coding, and a novel writer with a creative and aesthetic mind."
+    Content: "I am Nittesh, Tech enthusiast. and I'm a passionate learner,delving into coding, and a novel writer with a creative and aesthetic mind."
   socialIcons:
     - name: twitter
       url: "https://x.com/Nitte62423"
